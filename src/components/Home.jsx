@@ -56,7 +56,7 @@ const Home = () => {
       <section>
         <div>
           <motion.h1 {...animations.h1}>
-            Hi, I am <br /> Ajay Chirme 11
+            Hi, I am <br /> Ajay Chirme
           </motion.h1>
 
           <Typewriter
