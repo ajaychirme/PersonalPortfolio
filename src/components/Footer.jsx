@@ -17,8 +17,12 @@ const Footer = () => {
       </div>
 
       <aside>
+        <div className="flexbox">
+        <div className="rotate">
         <h2>Social Media</h2>
-
+        </div>
+        </div>
+       
         <article>
           <a href="https://youtube.com" target={"blank"}>
             <AiFillYoutube />
